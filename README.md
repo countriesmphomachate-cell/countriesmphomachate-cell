@@ -1,16 +1,27 @@
-## Hi there 👋
+## Countries Mpho Machate
 
-<!--
-**countriesmphomachate-cell/countriesmphomachate-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building systems. Solving problems. Engineering possibilities.
 
-Here are some ideas to get you started:
+I'm a Media Studies graduate transitioning into technology engineering, with a growing focus on Linux systems, infrastructure, automation, software development and AI-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My approach to engineering is practical: understand the system, build it, test its limits, troubleshoot failures, verify results and document what I've learned.
+
+### Areas I'm developing and working in
+- Linux administration and server infrastructure
+- Networking, SSH and system security
+- Bash scripting and Python development
+- Git, GitHub and version-controlled workflows
+- Backend development, APIs and databases
+- Docker, cloud infrastructure and DevOps
+- AI-driven applications and automation
+- Monitoring, reliability and system recovery
+
+### My engineering philosophy
+
+I believe in learning by building, understanding why systems behave the way they do, and documenting solutions so that they can be reproduced and improved.
+
+My background in Media Studies and research also informs how I approach technology: understanding people, information, communication and the systems connecting them.
+
+**Current direction:** Systems Engineering | Infrastructure | Cloud & DevOps | AI Development
+
+South Africa 🇿🇦
